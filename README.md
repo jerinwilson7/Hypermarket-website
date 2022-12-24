@@ -7,7 +7,7 @@ Prerequisites
 A web server to host the website   
 Installation    
  1. Clone the repository to your web server:   
-      git clone https://github.com/username/hypermarket-website.git   
+      git clone https://github.com/jerinwilson7/Nahda-Hypermarket.git   
 
  2. (Optional) If you want to make any changes to the website, you can do so by editing the HTML, CSS, and JavaScript files in the src directory.   
  
@@ -24,7 +24,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
    
    MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2022 jerin wilson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
