@@ -1,5 +1,5 @@
-# Nahda-Hypermarket   
-Nahda Hypermarket Website   
+# Hypermarket   
+ Hypermarket Website   
 This website is a static website for a hypermarket to showcase their products and services. Customers can browse through the products,   
 view the hypermarket's location and contact information, and learn about the hypermarket's history and mission.   
      
@@ -7,7 +7,7 @@ Prerequisites
 A web server to host the website   
 Installation    
  1. Clone the repository to your web server:   
-      git clone https://github.com/jerinwilson7/Nahda-Hypermarket.git   
+      git clone https://github.com/jerinwilson7/Hypermarket.git   
 
  2. (Optional) If you want to make any changes to the website, you can do so by editing the HTML, CSS, and JavaScript files in the src directory.   
  
@@ -44,5 +44,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION
 
 
-Link:  https://jerinwilson7.github.io/Nahda-Hypermarket/
+Link:  https://jerinwilson7.github.io/Hypermarket-website/
 connect me 8921508991
